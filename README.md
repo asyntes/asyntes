@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Sanctensys;Software+Developer;XR+Developer;Web+Developer;Mobile+Developer;Game+Developer)](https://git.io/typing-svg)
+### Call me [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Sanctensys;Software+Developer;XR+Developer;Web+Developer;Mobile+Developer;Game+Developer)](https://git.io/typing-svg)
 
 <!--
 **sanctensys/sanctensys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
