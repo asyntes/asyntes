@@ -1,4 +1,4 @@
-### Call me 
+### Call me...
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Sanctensys;Software+Developer;XR+Developer;Web+Developer;Mobile+Developer;Game+Developer)](https://git.io/typing-svg)
 
 <!--
