@@ -4,7 +4,7 @@
 Typing Svg: https://github.com/DenverCoder1/readme-typing-svg
 -->
 
-### Languages
+### Programming Languages
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width=50px height=50px style="display: inline-block">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" width=50px height=50px style="display: inline-block">
@@ -16,6 +16,13 @@ Typing Svg: https://github.com/DenverCoder1/readme-typing-svg
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" width=50px height=50px style="display: inline-block">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width=50px height=50px style="display: inline-block">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" width=50px height=50px style="display: inline-block">
+</div>
+
+### Other Languages
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width=50px height=50px style="display: inline-block">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width=50px height=50px style="display: inline-block">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" width=50px height=50px style="display: inline-block">
 </div>
 
