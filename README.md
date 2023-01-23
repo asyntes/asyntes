@@ -11,7 +11,6 @@ Typing Svg: https://github.com/DenverCoder1/readme-typing-svg
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width=50px height=50px style="display: inline-block">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" width=50px height=50px style="display: inline-block">
 </div>
-<hr>
 
 ### Frameworks
 <div>
