@@ -4,4 +4,4 @@
 Typing Svg: https://github.com/DenverCoder1/readme-typing-svg
 -->
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" style="width:100px; height:100px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" style="width:50px; height:50px">
