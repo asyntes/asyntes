@@ -16,4 +16,5 @@ Typing Svg: https://github.com/DenverCoder1/readme-typing-svg
 ### Frameworks
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" style="width:50px; height:50px; display:inline-block;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" style="width:50px; height:50px; display:inline-block;">
 </div>
