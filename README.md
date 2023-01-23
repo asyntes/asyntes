@@ -25,11 +25,3 @@ Typing Svg: https://github.com/DenverCoder1/readme-typing-svg
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width=50px height=50px style="display: inline-block">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/SQL_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png" width=50px height=50px style="display: inline-block">
 </div>
-
-### IDEs
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width=50px height=50px style="display: inline-block">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/PlatformIO_logo.svg" width=50px height=50px style="display: inline-block">
-</div>
-
-
