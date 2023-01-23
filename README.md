@@ -5,11 +5,11 @@ Typing Svg: https://github.com/DenverCoder1/readme-typing-svg
 -->
 
 ### Languages
-<div style="  display: grid; place-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" style="width: 5%; height: 5%; display: inline-block;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" style="width: 5%; height: 5%; display: inline-block;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="width: 5%; height: 5%; display: inline-block;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" style="width: 5%; height: 5%; display: inline-block;">
+<div style="display: table;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" style="width: 5%; height: 5%; display: table-cell;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" style="width: 5%; height: 5%; display: table-cell;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="width: 5%; height: 5%; display: table-cell;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" style="width: 5%; height: 5%; display: table-cell;">
 </div>
 <hr>
 
