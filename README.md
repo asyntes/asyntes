@@ -5,7 +5,7 @@ Typing Svg: https://github.com/DenverCoder1/readme-typing-svg
 -->
 
 ### Languages
-<div>
+<div style="display: flex; align-items: center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" style="width:5%; height:5%; display:inline-block;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" style="width:5%; height:5%; display:inline-block;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="width:5%; height:5%; display:inline-block;">
