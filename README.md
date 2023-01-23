@@ -1,3 +1,12 @@
+<head>
+  <style>
+    img{
+      width: 5%;
+      height:5%;
+    }
+  </style>
+</head>
+
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Antonio+Santese;Software+Developer)](https://git.io/typing-svg)
 
 <!--
@@ -20,9 +29,4 @@ Typing Svg: https://github.com/DenverCoder1/readme-typing-svg
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg">
 </div>
 
-<style>
-  img{
-    width: 5%;
-    height:5%;
-  }
-</style>
+
