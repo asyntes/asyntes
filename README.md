@@ -7,5 +7,6 @@ Typing Svg: https://github.com/DenverCoder1/readme-typing-svg
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="width:50px; height:50px; display:inline-block;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" style="width:50px; height:50px; display:inline-block;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" style="width:50px; height:50px; display:inline-block;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" style="width:50px; height:50px; display:inline-block;">
 </div>
