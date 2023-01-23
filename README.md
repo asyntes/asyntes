@@ -23,7 +23,7 @@ Typing Svg: https://github.com/DenverCoder1/readme-typing-svg
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width=50px height=50px style="display: inline-block">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width=50px height=50px style="display: inline-block">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" width=50px height=50px style="display: inline-block">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width=50px height=50px style="display: inline-block">
 </div>
 
 ### IDEs
