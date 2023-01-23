@@ -26,7 +26,7 @@ As a software developer with a diploma in Computer Science and 3 years of profes
 ### Software Development Kit
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Ar_core.svg" width=50px height=50px style="display: inline-block;">
-  <img src="https://yt3.googleusercontent.com/ytc/AMLnZu_mvXPJu_FEoY6zVAqsKx7xtxB4Raxp1EJ8brSJ=s900-c-k-c0x00ffffff-no-rj" width=50px height=50px>
+  <img src="https://repository-images.githubusercontent.com/50605426/ce574819-6bf5-44c5-a174-f22f20ee0ce9" width=50px height=50px>
 </div>
 
 
