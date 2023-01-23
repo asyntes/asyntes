@@ -11,3 +11,8 @@ Typing Svg: https://github.com/DenverCoder1/readme-typing-svg
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" style="width:50px; height:50px; display:inline-block;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" style="width:50px; height:50px; display:inline-block;">
 </div>
+
+### Frameworks
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" style="width:50px; height:50px; display:inline-block;">
+</div>
