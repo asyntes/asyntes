@@ -1,9 +1,4 @@
 ![banner github](https://user-images.githubusercontent.com/71755625/214107561-327a6d01-8069-4feb-b773-6fd35f95e07c.png)
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Antonio+Santese;Software+Developer)](https://git.io/typing-svg)
-
-<!--
-Typing Svg: https://github.com/DenverCoder1/readme-typing-svg
--->
 
 ### Programming Languages
 <div>
@@ -26,3 +21,10 @@ Typing Svg: https://github.com/DenverCoder1/readme-typing-svg
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width=50px height=50px style="display: inline-block">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/SQL_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png" width=50px height=50px style="display: inline-block">
 </div>
+
+
+<!--# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Antonio+Santese;Software+Developer)](https://git.io/typing-svg)
+
+
+Typing Svg: https://github.com/DenverCoder1/readme-typing-svg
+-->
