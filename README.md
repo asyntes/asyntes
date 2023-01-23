@@ -1,3 +1,4 @@
+![banner github](https://user-images.githubusercontent.com/71755625/214107561-327a6d01-8069-4feb-b773-6fd35f95e07c.png)
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Antonio+Santese;Software+Developer)](https://git.io/typing-svg)
 
 <!--
