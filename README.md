@@ -1,4 +1,5 @@
 ![banner github](https://user-images.githubusercontent.com/71755625/214107561-327a6d01-8069-4feb-b773-6fd35f95e07c.png)
+As a software developer with a diploma in Computer Science and 3 years of professional experience, I have a strong foundation in computer programming and a passion for solving complex problems. With a proven track record of delivering high-quality software on time, I am confident in my ability to make a valuable contribution to any team. 
 
 ### Programming Languages
 <div>
