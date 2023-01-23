@@ -3,3 +3,5 @@
 <!--
 Typing Svg: https://github.com/DenverCoder1/readme-typing-svg
 -->
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg">
