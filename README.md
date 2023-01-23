@@ -23,7 +23,6 @@ Typing Svg: https://github.com/DenverCoder1/readme-typing-svg
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width=50px height=50px style="display: inline-block">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/PlatformIO_logo.svg" width=50px height=50px style="display: inline-block">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" width=50px height=50px style="display: inline-block">
 </div>
 
 
