@@ -39,3 +39,5 @@
 <!--
 Typing Svg: https://github.com/DenverCoder1/readme-typing-svg
 -->
+
+<!--Writing clean code is an art, optimizing it is a science.-->
