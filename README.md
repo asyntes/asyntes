@@ -31,7 +31,7 @@
 </div>
 -->
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" width=15px height=15px style="display: inline-block;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" width=13px height=13px style="display: inline-block;">
   <span style="display: inline-block;">AntonioSantese.ts</span>
 </div>
 
