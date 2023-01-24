@@ -3,7 +3,7 @@ As a software developer with a diploma in Computer Science and 3 years of profes
 
 ### Programming Languages
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" href="" width=50px height=50px style="display: inline-block;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" width=50px height=50px style="display: inline-block;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" width=50px height=50px style="display: inline-block;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width=50px height=50px style="display: inline-block;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" width=50px height=50px style="display: inline-block;">
