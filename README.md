@@ -9,18 +9,18 @@ As a software developer with a diploma in Computer Science and 3 years of profes
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" width=50px height=50px style="display: inline-block;">
 </div>
 
- ### Frameworks
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" width=50px height=50px style="display: inline-block;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width=50px height=50px style="display: inline-block;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" width=50px height=50px style="display: inline-block;">
-</div>
-
 ### Other Languages
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width=50px height=50px style="display: inline-block;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width=50px height=50px style="display: inline-block;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/SQL_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png" width=50px height=50px style="display: inline-block;">
+</div>
+
+ ### Frameworks
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" width=50px height=50px style="display: inline-block;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width=50px height=50px style="display: inline-block;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" width=50px height=50px style="display: inline-block;">
 </div>
 
 ### Software Development Kits
