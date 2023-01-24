@@ -1,3 +1,4 @@
+<!--
 ![banner github](https://user-images.githubusercontent.com/71755625/214107561-327a6d01-8069-4feb-b773-6fd35f95e07c.png)
 
 ### Programming Languages
@@ -28,13 +29,13 @@
   <img src="https://static.wikia.nocookie.net/ipod/images/d/d1/ARKit_2_icon.png/revision/latest?cb=20220417062630"  height=50px>
   <img src="https://repository-images.githubusercontent.com/50605426/ce574819-6bf5-44c5-a174-f22f20ee0ce9"  height=50px>
 </div>
+-->
 
 
 
 
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Antonio+Santese;Software+Developer)](https://git.io/typing-svg)
 
-<!--# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Antonio+Santese;Software+Developer)](https://git.io/typing-svg)
-
-
+<!--
 Typing Svg: https://github.com/DenverCoder1/readme-typing-svg
 -->
