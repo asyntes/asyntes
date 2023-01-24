@@ -33,7 +33,7 @@
 
 
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=antonioSantese+:+Person+;antonioSantese.profession+=+"Software+Developer";antonioSantese.teaSipper+=+true)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=antonioSantese+:+SoftwareDeveloper;antonioSantese.teaSipper+=+true)](https://git.io/typing-svg)
 
 
 <!--
