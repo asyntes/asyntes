@@ -31,8 +31,7 @@
 </div>
 -->
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" width=10px height=10px style="display: inline-block;">
-  <p style="display: inline-block;">AntonioSantese.ts</p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" width=10px height=10px style="display: inline-block;">AntonioSantese.ts
 </div>
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=antonioSantese+:+SoftwareDeveloper;antonioSantese.teaSipper+=+true)](https://git.io/typing-svg)
