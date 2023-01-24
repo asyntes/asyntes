@@ -33,11 +33,12 @@
 
 
 
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=antonioSantese;softwareDevloper;teaSipper)](https://git.io/typing-svg)
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Antonio+Santese;Software+Developer;Tea+Sipper)](https://git.io/typing-svg)
 
 <!--
 Typing Svg: https://github.com/DenverCoder1/readme-typing-svg
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Antonio+Santese;Software+Developer;Tea+Sipper)](https://git.io/typing-svg)
 -->
 
 <!--Writing clean code is an art, optimizing it is a science.-->
