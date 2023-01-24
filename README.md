@@ -35,7 +35,7 @@
   <span style="display: inline-block;">AntonioSantese.ts</span>
 </div>
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=public+antonioSantese+:+SoftwareDeveloper;antonioSantese.teaSipper+=+true&duration=7000)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=public+antonioSantese+:+SoftwareDeveloper;antonioSantese.teaSipper+=+true&width=435)](https://git.io/typing-svg)
 
 
 <!--
