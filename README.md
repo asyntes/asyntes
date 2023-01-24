@@ -30,8 +30,10 @@
   <img src="https://repository-images.githubusercontent.com/50605426/ce574819-6bf5-44c5-a174-f22f20ee0ce9"  height=50px>
 </div>
 -->
-
-
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" width=10px height=10px style="display: inline-block;">
+  <p style="display: inline-block;">AntonioSantese.ts</p>
+</div>
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=antonioSantese+:+SoftwareDeveloper;antonioSantese.teaSipper+=+true)](https://git.io/typing-svg)
 
