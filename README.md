@@ -32,7 +32,7 @@
 -->
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" width=13px height=13px style="display: inline-block;">
-  <span style="display: inline-block;">AntonioSantese.ts</span>
+  <span style="display: inline-block;">about.ts</span>
 </div>
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=antonioSantese:+Person+=+{+name:+"Antonio",+surname:+"Santese";antonioSantese:+SoftwareDeveloper+=+{+name:+"Antonio",+surname:+"Santese";&width=500)](https://git.io/typing-svg)
