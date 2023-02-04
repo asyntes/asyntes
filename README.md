@@ -35,7 +35,7 @@
   <span style="display: inline-block;">about.ts</span>
 </div>
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=atenyr:+Person+=+{+name:+"Antonio",+surname:+"Santese";atenyr:+SoftwareDeveloper+=+{+name:+"Antonio",+surname:+"Santese";&width=500)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=asyntes:+Person+=+{+name:+"Antonio",+surname:+"Santese";asyntes:+SoftwareDeveloper+=+{+name:+"Antonio",+surname:+"Santese";&width=500)](https://git.io/typing-svg)
 
 
 <!--
