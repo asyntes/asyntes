@@ -35,7 +35,7 @@
   <span style="display: inline-block;">about.ts</span>
 </div>
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=asyntes:+SoftwareDeveloper;&width=500)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=asyntes:+SoftwareDeveloper;;&width=500)](https://git.io/typing-svg)
 
 
 <!--
